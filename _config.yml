@@ -2,9 +2,9 @@ title:            Notes by Amit Solanki
 description:      I write here. 
 url:              # Site url.
 signoff:          Amit Solanki
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: disqus_IFZIdG0J60
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: UA-41949970-3
 
 links:
   - name:         About
